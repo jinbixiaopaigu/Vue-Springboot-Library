@@ -1,3 +1,4 @@
+修改内容：将bookwithuser表合并至lendrecord表，并以此重构了大部分内容，并为数据库设计了借书还书两个存储过程避免数据库表的记录不一致
 # 图书馆管理系统（library-system）
 
 
